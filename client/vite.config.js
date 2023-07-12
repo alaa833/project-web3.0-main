@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/project-web3.0",
+  base: "/project-web3.0-main",
   plugins: [react()]
 })
